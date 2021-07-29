@@ -1,2 +1,2 @@
 # BankAccount
-Fist project to practice OOP &amp; Java. Its About the Banking system.
+First project to practice OOP &amp; Java. Its About the Banking system.
